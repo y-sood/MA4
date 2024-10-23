@@ -3,7 +3,6 @@ import unittest
 
 from HighOrderFunctionChecker import check_higher_order_functions
 from MA4_1_3 import *
-from time import perf_counter as pc
 
 
 class Test(unittest.TestCase):
